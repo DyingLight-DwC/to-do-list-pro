@@ -41,10 +41,6 @@
 ## 快速开始
 
 ### 在线体验
-直接访问GitHub Pages部署版本：  
-[![Open in GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Open%20Demo-blue?logo=github)](https://DyingLight-DwC.github.io/to-do-list-pro/)
+此项目已部署到GitHub Pages，可通过以下链接访问：
+[查看演示](https://DyingLight-DwC.github.io/todo-list-pro/)
 
-### 本地运行
-1. 克隆仓库：
-   ```bash
-   git clone https://github.com/dyinglight-dwc/to-do-list-pro.git
