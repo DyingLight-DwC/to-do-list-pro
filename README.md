@@ -42,5 +42,5 @@
 
 ### 在线体验
 此项目已部署到GitHub Pages，可通过以下链接访问：
-[查看演示](https://DyingLight-DwC.github.io/todo-list-pro/)
+[查看演示](https://DyingLight-DwC.github.io/to-do-list-pro/)
 
